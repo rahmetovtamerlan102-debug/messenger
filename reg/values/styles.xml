@@ -1,0 +1,10 @@
+<resources>
+    <style name="PremiumTitle" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="ShimmerItem" parent="Widget.Material3.CardView">
+        <item name="cardBackgroundColor">@color/gray_300</item>
+    </style>
+</resources>
