@@ -1,0 +1,17 @@
+<resources>
+    <color name="purple_500">#6750A4</color>
+    <color name="purple_700">#4A3780</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#1C1B1F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_600">#757575</color>
+    <color name="surface">#FEF7FF</color>
+    <color name="onSurface">#1C1B1F</color>
+    <color name="primaryContainer">#EADDFF</color>
+    <color name="onPrimaryContainer">#21005D</color>
+    <color name="error">#BA1A1A</color>
+    <color name="success">#2E7D32</color>
+</resources>
