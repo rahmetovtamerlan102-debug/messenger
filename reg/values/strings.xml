@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LLM Messenger</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="message_hint">Сообщение...</string>
+    <string name="send">Отправить</string>
+    <string name="search">Поиск</string>
+    <string name="no_chats">Нет чатов</string>
+    <string name="profile">Профиль</string>
+    <string name="premium">Премиум</string>
+    <string name="logout">Выйти</string>
+</resources>
